@@ -1,0 +1,12 @@
+Dashboard Insights – Superstore
+
+1. Technology is the highest-performing category, generating approximately 4.7M in sales and the strongest profit contribution, making it the main revenue driver.
+
+2. Central region produces the highest profit, followed by South and North. West and Caribbean regions show comparatively weaker performance and require operational review.
+
+3. Smartphones dominate the Top 10 products by sales, led by Apple, Cisco, Motorola, and Nokia models, highlighting strong demand for Technology items.
+
+Recommendations:
+- Increase focus on Technology category for marketing and inventory investments.
+- Analyze underperforming regions (West and Caribbean) to improve margins.
+- Prioritize high-performing smartphone products for promotions and stock planning.
